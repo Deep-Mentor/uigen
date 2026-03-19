@@ -24,6 +24,10 @@
 .DS_Store
 *.pem
 
+# local tools
+.claude/
+.playwright-mcp/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
